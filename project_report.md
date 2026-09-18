@@ -2,8 +2,8 @@
 
 **Project Title:** DriveGuard AI — Driver Monitoring System
 **Course:** Computer Vision (CSE3010)
-**Student Name:** Ansh Arora
-**Registration Number:** 24BAI10709
+**Student Name:** Vedansh Sharma
+**Registration Number:** 23BCE10754
 
 ---
 
